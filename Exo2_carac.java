@@ -11,6 +11,7 @@ public class Exo2_carac{
 			System.out.print(carac.charAt(i)+"  ");	
 		}
 		System.out.println();
+		System.out.println("Ceci est faux");
 		System.out.println(carac.charAt(0)+"  "+carac.charAt(taille-1));
 	}
 }
