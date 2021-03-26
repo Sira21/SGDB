@@ -1,0 +1,7 @@
+Le programme fournit le resultat suivant :
+A - ch1 =::
+B - ch2 =:hello:
+C - ch3 =:bonjour:
+D - ch4 =:bonjour:
+E - ch4 =:bonjour: ch3 =:bonsoir:
+F - ch4 =:bonsoir: ch3 =:au revoir:
